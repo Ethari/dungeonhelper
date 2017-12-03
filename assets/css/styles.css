@@ -1,0 +1,52 @@
+.content_page{
+    height: 100vh;
+}
+
+.story-panel{
+    height: 90vh;
+}
+
+.entire_page{
+    margin-top: 20px;
+}
+
+.story-content{
+    overflow: auto;
+}
+
+.portrait-small{
+    max-height: 150px;
+    float: right;
+}
+
+.portrait-big{
+    max-height: 200px;
+    float: right;
+}
+.panel-footer {
+    background: #337ab7;
+    color: white;
+}
+
+.attribute{
+    margin-left: 10px;
+}
+
+.health-bar{
+    background-color: #bb2323e6;
+    color: white;
+    text-align: center;
+}
+
+.small_attribute{
+    padding-left: 12px;
+}
+
+.full_row{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.attr_row{
+    margin-top:5px;
+}
